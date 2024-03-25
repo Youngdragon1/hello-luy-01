@@ -1,0 +1,43 @@
+{
+"name": "hello-luy-01",
+"version": "1.1.0",
+"description": "A sample npm package",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/Youngdragon1/hello-luy-01.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "youngdragon1",
+"license": "MIT",
+"dependencies": {
+"kmmingchao_1": "^1.0.1",
+"kmmingchao_2": "^1.0.1",
+"kmmingchao_3": "^1.0.1",
+"kmmingchao_4": "^1.0.1",
+"kmmingchao_5": "^1.0.1",
+"kmmingchao_6": "^1.0.1",
+"kmmingchao_7": "^1.0.1",
+"kmmingchao_8": "^1.0.1",
+"kmmingchao_9": "^1.0.1",
+"kmmingchao_10": "^1.0.1",
+"kmingw_01": "^1.0.1",
+"kmingw_02": "^1.0.1",
+"kmingw_03": "^1.0.1",
+"kmingw_04": "^1.0.1",
+"kmingw_05": "^1.0.1",
+"kmingw_06": "^1.0.1",
+"kmingw_07": "^1.0.1",
+"kmingw_08": "^1.0.1",
+"kmingw_09": "^1.0.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
